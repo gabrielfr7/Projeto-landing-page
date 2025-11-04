@@ -18,7 +18,7 @@ Este projeto é uma **landing page acadêmica** desenvolvida para a disciplina d
 
 O site está hospedado no GitHub Pages e pode ser acessado através do link:
 
-[**https://seu-usuario.github.io/seu-repositorio/**](https://seu-usuario.github.io/seu-repositorio/)
+[**https://gabrielfr7.github.io/Projeto-landing-page/**](https://gabrielfr7.github.io/Projeto-landing-page/)
 
 ---
 
